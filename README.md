@@ -55,7 +55,6 @@ resource appService 'Microsoft.Web/sites@2020-06-01' = {
   }
 }
 ```
-
 Sample demo for CI/CD for Azure Bicep using Azure DevOps Pipelines.
 
 ```yaml
