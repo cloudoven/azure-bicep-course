@@ -1,7 +1,6 @@
 # Azure Bicep course
 
 Deploying resources into Azure using Bicep.
-
 There are many tools to deploy resources into Azure:
 
 Azure portal
